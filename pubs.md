@@ -3,7 +3,7 @@ title: Publications
 layout: home
 ---
 
-{% include publications %}
+{% include publications link=true %}
 
 Go back to [Home Page]
 
