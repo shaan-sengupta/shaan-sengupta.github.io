@@ -1,6 +1,6 @@
 ---
 title: Test Page
-layout: page
+layout: home
 ---
 
 Test Page
