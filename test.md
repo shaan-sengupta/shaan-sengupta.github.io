@@ -1,6 +1,6 @@
 ---
 title: Test Page
-layout: minimal
+layout: page
 ---
 
 Test Page
