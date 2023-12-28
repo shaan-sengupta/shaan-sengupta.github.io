@@ -1,9 +1,9 @@
 ---
-title: Test Page
+title: Publications
 layout: home
 ---
 
-Test Page
+{% include publications %}
 
 Go back to [Home Page]
 
